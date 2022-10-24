@@ -15,3 +15,8 @@ This dataset was created by the company figure-eight and originally shared on th
 A submission file is provided after using fitted deeplearning model on a seperate dataset including tweet texts. The submission file can be found in docs/.
 
 
+Bloc 4 - Jedha Fullstack Datascientist Bootcamp  
+Link to video: https://share.vidyard.com/watch/SEC1wKrr5MAsMP7wyR34Z4?  
+lisbiliroglu  
+at_gmail_com 
+
