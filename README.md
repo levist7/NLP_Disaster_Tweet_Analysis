@@ -16,7 +16,4 @@ A submission file is provided after using fitted deeplearning model on a seperat
 
 
 Bloc 4 - Jedha Fullstack Datascientist Bootcamp  
-Link to video: https://share.vidyard.com/watch/SEC1wKrr5MAsMP7wyR34Z4?  
-lisbiliroglu  
-at_gmail_com 
-
+Link to video: https://share.vidyard.com/watch/SEC1wKrr5MAsMP7wyR34Z4? 
