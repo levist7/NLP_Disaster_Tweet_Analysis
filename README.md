@@ -26,7 +26,6 @@ It’s not always clear whether a person’s words are actually announcing a dis
 
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’s [website]("https://www.figure-eight.com/data-for-everyone/"). They hand-classified a dataset of 10,000 tweets. The dataset may contain text that may be considered as profane, vulgar, or offensive.
 
-*Bloc 4 - Jedha Fullstack Datascientist Bootcamp* 
 
 ## Pipeline  
 
@@ -34,7 +33,7 @@ This dataset was created by the company figure-eight and originally shared on th
 
 ## Deliverables
 
-A submission file 📬 is provided after using fitted deeplearning model on a seperate dataset including tweet texts. The submission file can be found in docs/.
+Key files are given below: 📬
 
 * L4_Disaster_analysis_with_Tweets_LI - a notebook explaining the procedure of training four deep learning models  
 * models/model_final.7z - a trained deep learning model  
