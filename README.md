@@ -41,7 +41,7 @@ Key files are given below: 📬
 
 ## Model Performances  
 
-Summary of machine learning model performances are shown below:  
+Deep learning model performances are summarized below:  
 
 <img src = ".comparison_DL_models.jpg">
 
@@ -50,7 +50,7 @@ Summary of machine learning model performances are shown below:
 * **GRU model** learns well and scores between 0.70 and 0.75 on the test data. It overfits quickly.  
 * **LSTM model** learns much less than others. The rate of overfit is not much. The scores on test set are between 0.70 and 0.75.  
 
-There is a fifty-fifty chance of guessing whether a tweet talks about disaster or not. All the models seem to increase the predictions relative to this dumb model. Overfitting is common. **GAP1d model** is chosen as the final model in this project.  
+There is a fifty-fifty chance of guessing whether a tweet talks about disaster or not. All the models seem to increase the predictions relative to this dumb model. Overfitting is common. **GAP1d model** is chosen as the final model.  
 
 ## Technologies
 
