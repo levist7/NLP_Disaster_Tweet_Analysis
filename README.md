@@ -31,13 +31,11 @@ This dataset was created by the company figure-eight and originally shared on th
 
 <img src = ".pipeline_summary.png">
 
-## Deliverables
+## Deliverables 📬  
 
-Key files are given below: 📬
-
-* L4_Disaster_analysis_with_Tweets_LI - a notebook explaining the procedure of training four deep learning models  
-* models/model_final.7z - a trained deep learning model  
-* docs/submission.csv - a submission file predicting whether a set of tweets talk about real disaster or not
+1. L4_Disaster_analysis_with_Tweets_LI - a notebook explaining the procedure of training four deep learning models  
+2. models/model_final.7z - a trained deep learning model  
+3. docs/submission.csv - a submission file predicting whether a set of tweets talk about real disaster or not
 
 ## Model Performances  
 
