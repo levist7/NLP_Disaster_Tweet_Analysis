@@ -65,7 +65,7 @@ or this github project can be launched on [colab-google](https://colab.research.
 To run this project, 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/levist7/Disaster_Tweet_Analysis_NLP_DeepLearning.git
+   git clone https://github.com/levist7/NLP_Disaster_Tweet_Analysis.git
    ```
 2. Install [packages](#technologies)
 
