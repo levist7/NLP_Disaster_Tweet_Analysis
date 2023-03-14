@@ -22,7 +22,7 @@ Twitter has been a key communication channel in times of emergency. The smartpho
 
 ## Project 🎯
 
-It’s not always clear whether a person’s words are actually announcing a disaster or not. The goal is to build a machine learning model that predicts which Tweets talks about real disasters and which ones do not. 
+It’s not always clear whether a person’s words are actually announcing a disaster or not. The goal is to build a deep learning model that predicts which Tweets talks about real disasters and which ones do not. 
 
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’s [website]("https://www.figure-eight.com/data-for-everyone/"). They hand-classified a dataset of 10,000 tweets. The dataset may contain text that may be considered as profane, vulgar, or offensive.
 
