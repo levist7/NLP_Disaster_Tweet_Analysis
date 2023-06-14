@@ -3,7 +3,6 @@
 
 ![python-shield](https://forthebadge.com/images/badges/made-with-python.svg)  
 
-[Video presentation](https://share.vidyard.com/watch/SEC1wKrr5MAsMP7wyR34Z4?)
 
 ## Table of contents
 * [Background](#background)
